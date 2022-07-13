@@ -1,0 +1,9 @@
+.container__botaoTerciario {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    color: var(--branco-principal);
+    display: inline-block;
+    margin-bottom: 1em;
+    padding: 1em;
+    text-decoration: none;
+}

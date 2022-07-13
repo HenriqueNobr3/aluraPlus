@@ -1,0 +1,10 @@
+.lista__link a{
+    color: var(--branco-principal);
+    font-size: 16px;
+    margin-left: 1em;
+    text-decoration: none;
+}
+
+.lista__link a:hover {
+    color: var(--botao-azul);
+}
