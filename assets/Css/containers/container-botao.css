@@ -9,5 +9,5 @@
 }
 
 .container__botao:hover{
-    color:var(-cor-botao-efeito)
+    color:var(--cor-botao-efeito)
 }
