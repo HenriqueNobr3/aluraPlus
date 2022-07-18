@@ -7,3 +7,7 @@
     text-decoration: none;
     margin-bottom: 1em;
 }
+
+.container__botao:hover{
+    color:var(-cor-botao-efeito)
+}
